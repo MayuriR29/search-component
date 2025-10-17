@@ -1,5 +1,17 @@
 # Smart Search Web Component
-# React + Vite
+
+## Getting started
+```markdown
+npm i
+npm run dev
+```
+# Built With
+# React + Vite  
+
+# Usage
+The Input select component is can be used to search data, suggestions are displayed when user input data 
+User can select data from suggestions or hit enter and check if data is available
+The results are displayed as a list, also filters are available 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
